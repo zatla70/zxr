@@ -19,7 +19,8 @@ BT.editChannel("530157932214747139", {name : "Welcome To 「"})
 BT.editChannel("530157932214747139", {name : "Welcome To 「♚"})
 BT.editChannel("530157932214747139", {name : "Welcome To 「♚X"})
 BT.editChannel("530157932214747139", {name : "Welcome To 「♚XZ"})
-BT.editChannel("530157932214747139", {name : "Welcome To 「♚XZ♚"})
+BT.editChannel("530157932214747139", {name : "Welcome To 「♚XZ♚」"})
+BT.editChannel("530157932214747139", {name : "Welcome To 「♚XZ♚」"})
 BT.editChannel("530157932214747139", {name : "Welcome To 「♚XZ♚"})
 BT.editChannel("530157932214747139", {name : "Welcome To 「♚XZ"})
 BT.editChannel("530157932214747139", {name : "Welcome To 「♚X"})
@@ -48,7 +49,7 @@ BT.editChannel("530157932214747139", {name : "Welcome To 「"})
 BT.editChannel("530157932214747139", {name : "Welcome To 「♚"})
 BT.editChannel("530157932214747139", {name : "Welcome To 「♚X"})
 BT.editChannel("530157932214747139", {name : "Welcome To 「♚XZ"})
-BT.editChannel("530157932214747139", {name : "Welcome To 「♚XZ♚"})
+BT.editChannel("530157932214747139", {name : "Welcome To 「♚XZ♚」"})
 }, 10000);
 });
 
