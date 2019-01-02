@@ -53,7 +53,7 @@ BT.editChannel("530157932214747139", {name : "Welcome To 「♚XZ♚"})
 });
 
 
-client.on('message', message => {
+bot.on('message', message => {
     if (message.content.startsWith("رابط")) {
 
   message.channel.createInvite({
